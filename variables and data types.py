@@ -1,9 +1,9 @@
 a = complex(10,9)
-print(type(a))
-print(a)
+print("The Data type is:",type(a))
+print("complex:",a)
 b=10.80
-print(type(b))
-print(b)
+print("The Data type is:",type(b))
+print("float:",b)
 c=True
-print(type(c))
-print(c)
+print("The Data type is:",type(c))
+print("Boolean:",c)
